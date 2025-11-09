@@ -1,0 +1,21 @@
+<!-- File: assets/aarav-gradient.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Aarav">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00B4FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- gradient text only -->
+  <g filter="url(#soft)">
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+          font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+          font-weight="800" font-size="36" fill="url(#g1)">Aarav</text>
+  </g>
+</svg>
