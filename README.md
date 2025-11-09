@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Aarav Gupta!  
 
-<img src="https://komarev.com/ghpvc/?username=aaravgupta8&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&vCenter=true&lines=Aspiring+Software+Engineer;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&vCenter=true&lines=Aspiring+Software+Engineer;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -31,7 +31,7 @@ When I’m not debugging or experimenting with ML models, I’m probably designi
   <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-learn" />
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="45" alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="45"/>
 </p>
 
 #### 🌐 Web Development  
@@ -65,7 +65,7 @@ When I’m not debugging or experimenting with ML models, I’m probably designi
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   <a href="https://aarav-portfolio-psi.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" height="45" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/internetarchive/ffffff" alt="Portfolio" height="45"/>
   </a>
   <a href="mailto:aaravgupta200600@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="45" alt="Email" />
