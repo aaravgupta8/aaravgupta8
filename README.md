@@ -8,8 +8,7 @@
 - 🚀 Currently diving deep into **Data Structures & Algorithms**  
 - 🧠 Exploring the world of **AI & Machine Learning**  
 - 🌐 Building creative and user-friendly **Web Development** projects  
-- 🏆 Strong believer in **continuous learning** and solving real-world problems with code  
-- ⚡ Fun fact: I can debug faster with music on 🎧  
+- 🏆 Strong believer in **continuous learning** and solving real-world problems with code
 
 ---
 
@@ -36,14 +35,8 @@
 ---
 
 ### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
-
----
-
-### 🧩 Quote I Live By  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaravgupta8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://aarav-portfolio-psi.vercel.app/)
 
 ---
 
