@@ -65,7 +65,7 @@ When I’m not debugging or experimenting with ML models, I’m probably designi
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   <a href="https://aarav-portfolio-psi.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/aaravgupta8/https://github.com/aaravgupta8/aaravgupta8/main/assets/aarav-gradient.svg" height="45" alt="Aarav - Portfolio" />
+  <img src="https://raw.githubusercontent.com/aaravgupta8/aaravgupta8/main/assets/aarav-gradient.svg" height="45" alt="Aarav - Portfolio" />
   </a>
   <a href="mailto:aaravgupta200600@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" height="45" />
