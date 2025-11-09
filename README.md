@@ -1,25 +1,29 @@
-# 👋 Hey there, I'm Aarav Gupta  
-
-🎯 **Aspiring Software Engineer | DSA Enthusiast | Future AI/ML Innovator**
+<!-- Header / Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aarav+Gupta!;Aspiring+Software+Engineer+👨‍💻;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐" alt="Typing SVG" />
+</p>
 
 ---
 
-### 💡 About Me  
-- 🚀 Currently diving deep into **Data Structures & Algorithms**  
-- 🧠 Exploring the world of **AI & Machine Learning**  
-- 🌐 Building creative and user-friendly **Web Development** projects  
-- 🏆 Strong believer in **continuous learning** and solving real-world problems with code
+### 🎯 About Me  
+- 💻 **Aspiring Software Engineer** passionate about learning and building  
+- 🚀 Currently focusing on **Data Structures & Algorithms**  
+- 🤖 Exploring the fascinating world of **AI & Machine Learning**  
+- 🌐 Developing interactive and clean **Web Projects**  
+- 🧩 Love tackling logical problems and learning from challenges  
+- ⚡ **Fun Fact:** I write cleaner code after a strong cup of coffee ☕  
 
 ---
 
 ### 🛠️ Tech Stack & Tools  
-#### Languages  
+
+#### 💬 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Tools & Frameworks  
+#### ⚙️ Tools & Frameworks  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -28,17 +32,36 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravgupta8&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaravgupta8&layout=compact&theme=tokyonight)  
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaravgupta8&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravgupta8&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaravgupta8&theme=tokyonight&hide_border=true" height="165px" />
+</p>
 
 ---
 
 ### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaravgupta8/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://aarav-portfolio-psi.vercel.app/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaravgupta8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://aarav-portfolio-psi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 ---
 
+### 🧠 Quote I Live By  
+> “The best way to predict the future is to invent it.” – Alan Kay  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaravgupta8&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
 ⭐ **Thanks for visiting!**  
-If you like my work, don’t forget to ⭐ some repositories and connect 🤝  
+If you like my work, don’t forget to ⭐ some repositories and connect 🤝
