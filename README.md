@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Aarav Gupta!  
 
-<img src="https://komarev.com/ghpvc/?username=aaravgupta8&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&vCenter=true&lines=Aspiring+Software+Engineer;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
@@ -15,7 +14,6 @@ When I’m not debugging or experimenting with ML models, I’m probably designi
 - 🤖 Learning the ropes of **AI & Machine Learning**  
 - 🌐 Building engaging, responsive **Web Apps**  
 - 💬 Love collaborating on open-source and personal projects  
-- ☕ Fun fact: I debug better with coffee and lo-fi music playing 🎧  
 
 ---
 
