@@ -11,7 +11,6 @@
 - 🤖 Exploring the fascinating world of **AI & Machine Learning**  
 - 🌐 Developing interactive and clean **Web Projects**  
 - 🧩 Love tackling logical problems and learning from challenges  
-- ⚡ **Fun Fact:** I write cleaner code after a strong cup of coffee ☕  
 
 ---
 
@@ -51,11 +50,6 @@
   <a href="https://www.linkedin.com/in/aaravgupta8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://aarav-portfolio-psi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
-
----
-
-### 🧠 Quote I Live By  
-> “The best way to predict the future is to invent it.” – Alan Kay  
 
 ---
 
