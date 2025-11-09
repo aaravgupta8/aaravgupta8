@@ -1,29 +1,33 @@
-<!-- Header / Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Aarav+Gupta!;Aspiring+Software+Engineer+👨‍💻;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐" alt="Typing SVG" />
-</p>
+# 👋 Hey, I'm Aarav Gupta!  
+
+<img src="https://komarev.com/ghpvc/?username=aaravgupta8&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&vCenter=true&lines=Aspiring+Software+Engineer;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 ---
 
-### 🎯 About Me  
-- 💻 **Aspiring Software Engineer** passionate about learning and building  
-- 🚀 Currently focusing on **Data Structures & Algorithms**  
-- 🤖 Exploring the fascinating world of **AI & Machine Learning**  
-- 🌐 Developing interactive and clean **Web Projects**  
-- 🧩 Love tackling logical problems and learning from challenges  
-- ☕ **Fun Fact:** I write cleaner code after a good cup of coffee  
+### 💡 About Me  
+
+I’m a **Computer Science enthusiast** passionate about learning, solving problems, and building clean, efficient code.  
+When I’m not debugging or experimenting with ML models, I’m probably designing a new web project or exploring something that challenges me to grow.  
+
+- 🚀 Currently mastering **Data Structures & Algorithms**  
+- 🤖 Learning the ropes of **AI & Machine Learning**  
+- 🌐 Building engaging, responsive **Web Apps**  
+- 💬 Love collaborating on open-source and personal projects  
+- ☕ Fun fact: I debug better with coffee and lo-fi music playing 🎧  
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+### 🧠 Tech Stack & Tools  
 
-#### 💬 Languages  
+#### 💬 Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🧠 AI / ML Libraries (Learning Phase)
+#### 🤖 AI / ML Stack  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
@@ -47,16 +51,16 @@
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 GitHub Insights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaravgupta8&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravgupta8&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaravgupta8&theme=tokyonight&hide_border=true" height="165px" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=aaravgupta8&show_icons=true&theme=tokyonight&hide_border=true" height="165em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravgupta8&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaravgupta8&theme=tokyonight&hide_border=true" height="165em" />
+
+</div>
 
 ---
 
@@ -69,14 +73,13 @@
 
 ---
 
-### 🧠 Quote I Live By  
-> “The best way to predict the future is to invent it.” – Alan Kay  
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23B197FC&vCenter=true&lines=Keep+learning%2C+keep+building!;The+best+code+is+yet+to+come+💪" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaravgupta8&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ⭐ **Thanks for visiting!**  
-If you like my work, don’t forget to ⭐ some repositories and connect 🤝
+If you like my work, feel free to ⭐ some repositories and connect 🤝
