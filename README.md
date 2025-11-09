@@ -68,7 +68,7 @@ When I’m not debugging or experimenting with ML models, I’m probably designi
     <img src="https://cdn.simpleicons.org/internetarchive/ffffff" alt="Portfolio" height="45"/>
   </a>
   <a href="mailto:aaravgupta200600@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="45" alt="Email" />
+    <img src="[https://cdn.simpleicons.org/gmail/D14836](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)" height="45" alt="Email" />
   </a>
   <a href="https://discord.com/users/aarav_gupta.8" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord" />
