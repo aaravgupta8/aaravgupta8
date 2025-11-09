@@ -1,10 +1,9 @@
 # 👋 Hey, I'm Aarav Gupta!  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaravgupta8&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com
+  font=Fira+Code&color=%2336BCF7&vCenter=true&lines=Aspiring+Software+Engineer;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&vCenter=true&lines=Aspiring+Software+Engineer;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 ---
 
