@@ -1,9 +1,8 @@
 # 👋 Hey, I'm Aarav Gupta!  
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com
-  font=Fira+Code&color=%2336BCF7&vCenter=true&lines=Aspiring+Software+Engineer;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
-</p>
+<img src="https://komarev.com/ghpvc/?username=aaravgupta8&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&vCenter=true&lines=Aspiring+Software+Engineer;DSA+Enthusiast+⚙️;AI%2FML+Explorer+🤖;Web+Developer+🌐;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 ---
 
@@ -19,35 +18,31 @@ When I’m not debugging or experimenting with ML models, I’m probably designi
 
 ---
 
-### 🧠 Tech Stack & Tools  
+### 🧠 Tech Stack  
 
 #### 💬 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" height="45" />
+</p>
 
-#### 🤖 AI / ML Stack  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+#### 🤖 AI / ML Libraries  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="45" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-learn" />
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="45" alt="Matplotlib" />
+</p>
 
 #### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs" height="45" />
+</p>
 
 #### ⚙️ Tools & Platforms  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,canva,googlecolab" height="45" />
+</p>
 
 ---
 
@@ -57,7 +52,6 @@ When I’m not debugging or experimenting with ML models, I’m probably designi
 
 <img src="https://github-readme-stats.vercel.app/api?username=aaravgupta8&show_icons=true&theme=tokyonight&hide_border=true" height="165em" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravgupta8&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaravgupta8&theme=tokyonight&hide_border=true" height="165em" />
 
 </div>
@@ -66,18 +60,18 @@ When I’m not debugging or experimenting with ML models, I’m probably designi
 
 ### 🌍 Connect with Me  
 
-<p align="center">
+<p align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/aaravgupta8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   <a href="https://aarav-portfolio-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=devto" height="45" alt="Portfolio" />
   </a>
   <a href="mailto:aaravgupta200600@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="45" alt="Email" />
   </a>
   <a href="https://discord.com/users/aarav_gupta.8" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord" />
   </a>
 </p>
 
